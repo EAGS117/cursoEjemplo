@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EAGS117/cursoEjemplo/issues"
   },
-  "homepage": "https://github.com/EAGS117/cursoEjemplo#readme"
+  "homepage": "https://github.com/EAGS117/cursoEjemplo#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  }
 }
